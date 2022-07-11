@@ -45,3 +45,6 @@ The PRIME DIRECTIVE is to maintain backward compatibility with existing Arduino 
 - Please no more pentagram-drawing PRs. Any oddly-specific drawing functions can go in your own code and aren't helpful in a library context.
 
 If you *must* have one of these features, consider creating a fork with the features required for your project...it's easy to keep synced with the upstream code.
+
+https://github.com/adafruit/Adafruit-GFX-Library
+adafruit/Adafruit ST7735 and ST7789 Library@^1.7.5
